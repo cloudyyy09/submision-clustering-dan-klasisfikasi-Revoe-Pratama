@@ -1,4 +1,4 @@
-# Proyek Machine Learning: Clustering dan Klasifikasi Menggunakan Dataset 1000 perusahaan terbesar di Amerika Serikat berdasarkan pendapatan tahunan
+# Proyek Machine Learning: Clustering dan Klasifikasi Menggunakan Dataset Crime Rate vs Socioeconomic Factors
 ## Deskripsi Proyek
 Proyek ini bertujuan untuk menganalisis data dengan menerapkan metode clustering dan classification.
 Tahap pertama adalah clustering, yang digunakan untuk mengelompokkan data berdasarkan pola tertentu.
